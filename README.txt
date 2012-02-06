@@ -5,6 +5,7 @@ Dette er en fin tekst
 =======
 
 Bla bla bla
+hallo
 >>>>>>> feature1
 
 hallo
